@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ChowWiWang aka Tim
+- 👋 Hi, I’m Tim
 - 👀 I’m interested in Linux and commandline apps. 
 - 🌱 I’m currently learning Bash
 - ⚡ Fun fact: I'm in a book!
